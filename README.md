@@ -168,11 +168,11 @@ https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-
 <!-- Add your social media icons here with the appropriate dark theme styles -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nand-n&show_icons=true&locale=en&layout=compact&theme=dark" alt="nand-n" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DagmawiYohannes3914&show_icons=true&locale=en&layout=compact&theme=dark" alt="DagmawiYohannes3914" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nand-n&show_icons=true&locale=en&theme=dark" alt="nand-n" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DagmawiYohannes3914&show_icons=true&locale=en&theme=dark" alt="DagmawiYohannes3914" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nand-n&theme=dark" alt="nand-n" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DagmawiYohannes3914&theme=dark" alt="DagmawiYohannes3914" /></p>
 
 <hr>
 
@@ -186,6 +186,6 @@ Don't hesitate to get in touch if you have ideas, projects, or problems you need
 
 - 📧 **Email:** [dagmawiyohannes323@gmail.com](mailto:dagmawiyohannes323@gmail.com)
 - 💼 **LinkedIn:** [Dagmawi Yohannes Alemu](https://www.linkedin.com/in/dagmawi-yohannes-a-440753140/)
-- 👨‍💻 **GitHub:** [nand-n](https://github.com/DagmawiYohannes3914)
+- 👨‍💻 **GitHub:** [Dagmawi](https://github.com/DagmawiYohannes3914)
 
 ---
