@@ -12,7 +12,7 @@
 
 * 🌍 I am Dagmawi Y Alemu, a full-stack software developer, based in Addis Ababa.
 
-* 💼 I have worked on various complex projects including SaaS, ERP, CRM , Game development ....
+* 💼 I have worked on various complex projects including SaaS, ERP, CRM ....
 
 * ⚡ I am into creating user-friendly interfaces and solving complex technical problems.
   
@@ -96,12 +96,9 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
-        <img src="
-Zoom https---user-images.githubusercontent.com-25181517-192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png
-https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png
- " width="48" height="48" alt="Git" />
-      <br>Git
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
     </td>
 
   </tr>
