@@ -57,11 +57,7 @@
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="65" height="65" />
       <br>Vite
-  </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="WordPress" />
-      <br>Figma
-  </td>
+  
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="96" height="48" alt="WordPress" />
       <br>Flutter
